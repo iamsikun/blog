@@ -20,12 +20,11 @@ params:
 
 menu: 
   main: 
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
       weight: 20
-        
+    - identifier: author
+      name: Author
+      url: https://www.sikunxu.com/
+      weight: 30
