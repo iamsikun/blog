@@ -1,7 +1,7 @@
 ---
 title: Test
 date: 2023-10-11T13:41:01-05:00
-draft: false
+draft: true
 tags: ['causal inference']
 categories: ['tech']
 ---
