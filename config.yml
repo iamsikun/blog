@@ -1,0 +1,31 @@
+baseURL: ""
+languageCode: en-us
+title: Sikun's Blog
+theme: PaperMod
+
+params: 
+  homeInfoParams: 
+    Title: 'Hello'
+    Content: 'Welcome to my blog'
+  socialIcons: 
+    - name: linkedin
+      url: https://www.linkedin.com/in/sikun-xu-760685164/
+    - name: github
+      url: https://github.com/iamsikun
+    - name: twitter
+      url: https://twitter.com/sikun_xu
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+menu: 
+  main: 
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+        
