@@ -2,25 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2023-10-11T13:41:01-05:00</lastmod>
+    <loc>https://iamsikun.github.io/blog/categories/</loc>
   </url><url>
-    <loc>/tags/causal-inference/</loc>
-    <lastmod>2023-10-11T13:41:01-05:00</lastmod>
+    <loc>https://iamsikun.github.io/blog/</loc>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-10-11T13:41:01-05:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-10-11T13:41:01-05:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-10-11T13:41:01-05:00</lastmod>
-  </url><url>
-    <loc>/categories/tech/</loc>
-    <lastmod>2023-10-11T13:41:01-05:00</lastmod>
-  </url><url>
-    <loc>/posts/test/</loc>
-    <lastmod>2023-10-11T13:41:01-05:00</lastmod>
+    <loc>https://iamsikun.github.io/blog/tags/</loc>
   </url>
 </urlset>
