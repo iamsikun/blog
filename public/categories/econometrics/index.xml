@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Econometrics on Sikun&#39;s Blog</title>
+    <link>http://localhost:1313/blog/categories/econometrics/</link>
+    <description>Recent content in Econometrics on Sikun&#39;s Blog</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en</language>
+    <copyright>©2024 Sikun Xu</copyright>
+    <lastBuildDate>Mon, 15 Jul 2024 15:55:56 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/categories/econometrics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stochastic Convergence</title>
+      <link>http://localhost:1313/blog/posts/stochastic-convergence/</link>
+      <pubDate>Mon, 15 Jul 2024 15:55:56 -0500</pubDate>
+      <guid>http://localhost:1313/blog/posts/stochastic-convergence/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

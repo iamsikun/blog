@@ -4,7 +4,7 @@ baseURL: "http://sikunxu.com/blog/"
 title: Sikun's Blog
 copyright: "©2024 [Sikun Xu](https://sikunxu.com/)"
 paginate: 5
-theme: [hugo-PaperMod]
+theme: [PaperMod]
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -19,53 +19,22 @@ minify:
   disableXML: true
   # minifyOutput: true
 
-languages:
-  en:
-    languageName: "English"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        - name: Posts
-          url: "http://sikunxu.com/blog/"
-          weight: 10
-        - name: Archive
-          url: archives
-          weight: 5
-          weight: 10
-        # - name: Tags
-        #   url: tags/
-        #   weight: 10
-        - name: Author
-          url: https://sikunxu.com/
-
-  # fr:
-  #   languageName: ":fr:"
-  #   weight: 2
-  #   title: PaperModL2
-  #   taxonomies:
-  #     category: FRcategories
-  #     tag: FRtags
-  #     series: FRseries
-  #   menu:
-  #     main:
-  #       - name: Archive
-  #         url: archives/
-  #         weight: 5
-  #       - name: FRTags
-  #         url: frtags
-  #         weight: 10
-  #       - name: FRCategories
-  #         url: frcategories
-  #         weight: 10
-  #       - name: FRSeries
-  #         url: frseries
-  #         weight: 10
-  #       - name: NullLink
-  #         url: "#"
+menu:
+  main: 
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - name: Author
+      url: https://sikunxu.com/
 
   #   # custom params for each language should be under [langcode].parms - hugo v0.120.0
   #   params:
@@ -111,8 +80,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  # author: Theme PaperMod
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -145,9 +114,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Welcome to Sikun's Blog"
+    Title: "Welcome to My Blog"
     Content: >
-      Hi there. I'm Sikun Xu, a Ph.D. candidate at Olin Business School, Washington University in St. Louis. I do data-driven business research. 
+      Hi there. I'm a Ph.D. candidate at Olin Business School, Washington University in St. Louis. Here is where I document some of my notes and thoughts on research. I hope you could find something interesting.
 
   socialIcons:
     - name: github
