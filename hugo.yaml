@@ -1,6 +1,6 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "iamsikun.github.io/blog/"
+baseURL: "iamsikun.github.io"
 title: Sikun's Blog
 copyright: "©2024 [Sikun Xu](https://sikunxu.com/)"
 paginate: 5
@@ -35,42 +35,6 @@ menu:
       weight: 20
     - name: Author
       url: https://sikunxu.com/
-
-  #   # custom params for each language should be under [langcode].parms - hugo v0.120.0
-  #   params:
-  #     languageAltTitle: French
-  #     profileMode:
-  #       enabled: true
-  #       title: PaperMod
-  #       imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-  #       imageTitle: ProfileMode image
-  #       # imageWidth: 120
-  #       # imageHeight: 120
-  #       subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-  #       buttons:
-  #         - name: Blog
-  #           url: posts
-  #         - name: Profile Mode
-  #           url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-
-  # fa:
-  #   languagedirection: rtl
-  #   weight: 3
-  #   title: PaperMod RTL
-  #   taxonomies:
-  #     category: FAcategories
-  #     tag: FAtags
-  #     series: FAseries
-  #   menu:
-  #     main:
-  #       - name: FATags
-  #         url: fatags
-  #         weight: 10
-  #   # custom params for each language should be under [langcode].parms - hugo v0.120.0
-  #   params:
-  #     homeInfoParams:
-  #       Title: "Hi there \U0001F44B"
-  #       Content: Welcome to RTL layout
 
 outputs:
   home:
