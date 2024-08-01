@@ -2,16 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tags/econometrics/</loc>
+    <lastmod>2024-07-15T15:55:56-05:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-07-15T15:55:56-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-07-15T15:55:56-05:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/statistics/</loc>
+    <lastmod>2024-07-15T15:55:56-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/stochastic-convergence/</loc>
+    <lastmod>2024-07-15T15:55:56-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-07-15T15:55:56-05:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/archives/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

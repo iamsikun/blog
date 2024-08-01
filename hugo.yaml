@@ -47,6 +47,7 @@ params:
   # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   # author: Theme PaperMod
   # author: ["Me", "You"] # multiple authors
+  math: true
 
   defaultTheme: auto
   # disableThemeToggle: true
@@ -136,6 +137,16 @@ markup:
       unsafe: true
   highlight:
     noClasses: false
+  extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - $$
+            - $$
+          inline:
+          - - $
+            - $
+        enable: true
     # anchorLineNos: true
     # codeFences: true
     # guessSyntax: true

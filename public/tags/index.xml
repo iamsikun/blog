@@ -7,6 +7,21 @@
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <copyright>©2024 Sikun Xu</copyright>
+    <lastBuildDate>Mon, 15 Jul 2024 15:55:56 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Econometrics</title>
+      <link>//localhost:1313/tags/econometrics/</link>
+      <pubDate>Mon, 15 Jul 2024 15:55:56 -0500</pubDate>
+      <guid>//localhost:1313/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>//localhost:1313/tags/statistics/</link>
+      <pubDate>Mon, 15 Jul 2024 15:55:56 -0500</pubDate>
+      <guid>//localhost:1313/tags/statistics/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
